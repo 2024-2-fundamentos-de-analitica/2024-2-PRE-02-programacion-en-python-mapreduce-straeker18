@@ -2,6 +2,7 @@
 
 # pylint: disable=broad-exception-raised
 
+
 import os
 
 import homework.word_count as wc
