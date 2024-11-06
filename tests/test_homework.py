@@ -1,12 +1,9 @@
 """Autograding script."""
-
 # pylint: disable=broad-exception-raised
-
 
 import os
 
 import homework.word_count as wc
-
 
 def test_01():
     """Test Word Count"""
